@@ -4,7 +4,6 @@ An optimization-based tool that automatically assigns teachers to courses using 
 
 **[→ Open the app](https://asignacion-docente-vripsanuenmzn8dpnynqjz.streamlit.app/)**
 
-<img width="842" height="752" alt="image" src="https://github.com/user-attachments/assets/ab6aae41-7aa2-4a79-bce9-3f13108d1704" />
 
 
 ---
