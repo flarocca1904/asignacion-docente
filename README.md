@@ -2,7 +2,7 @@
 
 An optimization-based tool that automatically assigns teachers to courses using integer linear programming. Built for university departments to streamline the scheduling process each semester.
 
-**[→ Open the app]([#](https://asignacion-docente-vripsanuenmzn8dpnynqjz.streamlit.app/))**
+**[→ Open the app](https://asignacion-docente-vripsanuenmzn8dpnynqjz.streamlit.app/)**
 
 ![App Screenshot](#) ← replace with a screenshot of the app
 
